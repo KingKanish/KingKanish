@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingKanish
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on Small python projects
 - 📫 How to reach me through mail- kanishv1012@gmail.com
 
